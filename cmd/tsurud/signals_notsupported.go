@@ -6,6 +6,6 @@
 
 package main
 
-func listenSignals() {
+// func listenSignals() {
 	// noop
-}
+// }
